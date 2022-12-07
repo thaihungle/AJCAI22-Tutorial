@@ -1,5 +1,7 @@
 # AJCAI22-Tutorial
-Demo code for AJCAI22-Tutorial
+### Demo code for AJCAI22-Tutorial
+[Tutorial website](https://thaihungle.github.io/talks/2022-12-05-AJCAI)
+[Conference website](https://ajcai2022.org/tutorials/)
 
 Install packages following requirements.txt  
 ```
