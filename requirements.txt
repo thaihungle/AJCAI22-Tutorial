@@ -1,0 +1,11 @@
+ale_py==0.7.5
+gym==0.26.2
+ipython==8.7.0
+matplotlib==3.6.2
+numpy==1.19.2
+opencv_python==4.6.0.66
+pyflann==1.6.14
+pyflann_py3==0.1.0
+tensorboard_logger==0.1.0
+torch==1.4.0
+tqdm==4.63.0
