@@ -1,6 +1,10 @@
 # AJCAI22-Tutorial
 Demo code for AJCAI22-Tutorial
+
 Install packages following requirements.txt  
+```
+pip install -r requirements.txt
+```
 ### DQN
 Follow dqn.ipynb  
 Reference: https://github.com/higgsfield/RL-Adventure/blob/master/1.dqn.ipynb
